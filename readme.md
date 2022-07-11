@@ -5,6 +5,8 @@
 
 <br>
 
+# Situação do Projeto
+
 <h4 align="center">
         ✔️ Primeira Versão do Projeto Completa ✔️
 </h4>
